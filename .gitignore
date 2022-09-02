@@ -122,3 +122,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Virtual Environment
+BHP_dep/*
+*/BHP_dep
