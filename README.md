@@ -1,4 +1,4 @@
-# Boston House Price Prediction Live Deployment
+# [Boston House Price Prediction Live Deployment](https://boston-housing-deployment.herokuapp.com/)
 
 ## Acknowledgements
 I take this opportunity to express my sincere gratitude to Mr. Krish Naik who made a video about deploying a ML project end to end using heroku and GitHub Actions. Following the video I was able to understand the concepts of deploying and how MLOPS and DevOPS make the deployment process a very and hassle free task.<br>
